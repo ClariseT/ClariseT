@@ -1,14 +1,7 @@
 
 <H1 align = "center"> Hi! I'm Clarise, an engineer in process 👩‍💻</H1>
-<p align = "center"> <img src="https://media.giphy.com/media/9RmTjLJVakEfDd9CIH/giphy.gif" width="100" />  <img src="https://media.giphy.com/media/9RmTjLJVakEfDd9CIH/giphy.gif" width="100" />  <img src="https://media.giphy.com/media/9RmTjLJVakEfDd9CIH/giphy.gif" width="100" />   <img src="https://media.giphy.com/media/9RmTjLJVakEfDd9CIH/giphy.gif" width="100" /></p>
 
-
-<H4 align = "center"> Currently learning a bit more about Design UX/UI </H4> 
-
-<p align = "center"> <img src="https://media.giphy.com/media/9RmTjLJVakEfDd9CIH/giphy.gif" width="100" />  <img src="https://media.giphy.com/media/9RmTjLJVakEfDd9CIH/giphy.gif" width="100" />  <img src="https://media.giphy.com/media/9RmTjLJVakEfDd9CIH/giphy.gif" width="100" />   <img src="https://media.giphy.com/media/9RmTjLJVakEfDd9CIH/giphy.gif" width="100" /></p>
-<H2></H2>
-<br>
-<H3 align = "center"> Tools  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> </H3><br>
+<H3 align = "center"> Tools  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> </H3>
 
 
 
@@ -29,7 +22,7 @@
 <img src = "https://cdn.icon-icons.com/icons2/2699/PNG/128/slack_tile_logo_icon_168820.png" width="40" />
 
 </p>
-<br><br>
+<br>
 
 <H2></H2>
 
